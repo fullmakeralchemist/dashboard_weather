@@ -1,0 +1,8 @@
+git+https://github.com/fullmakeralchemist/pytube/
+git+https://github.com/gatagat/lap@new-packaging
+altair==5.1.2
+numpy==1.26.0
+pandas==2.1.1
+plotly==5.18.0
+streamlit==1.27.1
+
